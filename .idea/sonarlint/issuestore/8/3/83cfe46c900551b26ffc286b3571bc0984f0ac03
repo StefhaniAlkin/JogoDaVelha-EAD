@@ -1,0 +1,11 @@
+
+l
+java:S1104"VMake isGameOver a static final constant or non-public and provide accessors if needed.(²ð“ö
+q
+java:S1104"VMake turnNumber a static final constant or non-public and provide accessors if needed.(ø•À®üÿÿÿÿ
+g	java:S116"MRename this field "BD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Æ²§ýÿÿÿÿ
+R	java:S125µ"<This block of commented-out lines of code should be removed.(»õÓ
+@
+java:S2140Â")Use "java.util.Random.nextInt()" instead.(ù± 
+C
+java:S1144Ê",Remove this unused private "cleanDB" method.(ÃÖÜ
